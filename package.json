@@ -1,0 +1,24 @@
+{
+  "name": "musiche-danmaku-ji",
+  "version": "2.4.0",
+  "private": true,
+  "description": "Bilibili live danmaku song-request desktop app",
+  "author": "长楠 @DaybreakCN",
+  "license": "Apache-2.0",
+  "type": "module",
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "scripts": {
+    "server": "node --experimental-sqlite server/index.mjs",
+    "server:check": "node --check server/index.mjs && node --check electron/main.mjs",
+    "desktop": "node electron/launch.mjs"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.4",
+    "ws": "^8.21.3"
+  },
+  "devDependencies": {
+    "electron": "^36.9.5"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "弹幕点歌姬",
+  "short_name": "弹幕点歌姬",
+  "start_url": "/musiche/recommend",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "zh",
+  "scope": "/musiche/",
+  "id": "top.picapico.musiche",
+  "description": "B站直播本机弹幕点歌姬。",
+  "icons": [
+    { "src": "logo-circle.png", "type": "image/png", "sizes": "300x300" }
+  ]
+}

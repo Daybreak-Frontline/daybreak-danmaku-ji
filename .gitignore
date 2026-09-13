@@ -1,0 +1,39 @@
+# Dependencies and build output
+node_modules/
+web/node_modules/
+web/dist/
+web/stats.html
+web/web.zip
+web/public/version
+*.tsbuildinfo
+
+# Local runtime data — cookies, SQLite, Electron cache
+/data/
+/data-*/
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+electron.log
+
+# Machine-local npm / editor / OS
+.npmrc
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+
+# Upstream Musiche leftovers (not part of this app)
+/mobile/
+/harmoryos/
+/windows/
+/proxy-server/
+/proxy-windows/
+/room-server/
+/functions/
+/images/
+/resources/
