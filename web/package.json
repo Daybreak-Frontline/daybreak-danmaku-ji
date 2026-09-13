@@ -1,7 +1,7 @@
 {
   "name": "musiche-danmaku-ji-web",
   "version": "1.0.0",
-  "description": "Vue UI for 弹幕点歌姬",
+  "description": "弹幕点歌姬界面",
   "author": "长楠 @DaybreakCN",
   "license": "Apache-2.0",
   "private": true,

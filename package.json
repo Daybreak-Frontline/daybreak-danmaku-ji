@@ -2,7 +2,7 @@
   "name": "musiche-danmaku-ji",
   "version": "1.0.0",
   "private": true,
-  "description": "Bilibili live danmaku song-request desktop app",
+  "description": "面向 B 站直播的本机弹幕点歌姬",
   "author": "长楠 @DaybreakCN",
   "license": "Apache-2.0",
   "type": "module",
