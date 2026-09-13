@@ -12,7 +12,7 @@
 
 作者：[长楠](https://github.com/Daybreak-Frontline)（@DaybreakCN）
 
-README 更新：2026-09-13 · 当前版本 `2.4.0`
+README 更新：2026-09-13 · 当前版本 `1.0.0`
 
 </div>
 
