@@ -8,4 +8,4 @@
 - `.npmrc`、`.env` 以及本机代理地址
 - 便携包里已经用过的 `data` 目录
 
-发现安全问题请到本仓库开 GitHub Issue，或直接联系 [长楠 @DaybreakCN](https://github.com/DaybreakCN)。不要在 Issue 里粘贴 Cookie、SESSDATA、MUSIC_U 或完整登录库。
+发现安全问题请到本仓库开 GitHub Issue，或直接联系 [长楠 @DaybreakCN](https://github.com/Daybreak-Frontline)。不要在 Issue 里粘贴 Cookie、SESSDATA、MUSIC_U 或完整登录库。

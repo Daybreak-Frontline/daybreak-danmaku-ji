@@ -2,11 +2,11 @@
 
 面向 B 站直播的本机点歌姬。观众在直播间发「点歌 歌名」入队，主播用 Electron 桌面窗播放；播放页可以再开给 OBS 用的捕获窗，以及透明桌面歌词。
 
-制作人：[长楠](https://github.com/DaybreakCN)（@DaybreakCN）
+制作人：[长楠](https://github.com/Daybreak-Frontline)（@DaybreakCN）
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
 [![Node](https://img.shields.io/badge/node-%3E%3D22.5-339933.svg)](https://nodejs.org/)
-[![CI](https://github.com/DaybreakCN/daybreak-danmaku-ji/actions/workflows/ci.yml/badge.svg)](https://github.com/DaybreakCN/daybreak-danmaku-ji/actions/workflows/ci.yml)
+[![CI](https://github.com/Daybreak-Frontline/daybreak-danmaku-ji/actions/workflows/ci.yml/badge.svg)](https://github.com/Daybreak-Frontline/daybreak-danmaku-ji/actions/workflows/ci.yml)
 
 界面与部分播放能力来自 [Musiche](https://github.com/HeHang0/Musiche)（Apache-2.0）。本仓库只保留点歌姬这条线：本地 Node API + Vue 界面 + Electron 壳。致谢见 [NOTICE](./NOTICE)。
 
@@ -51,7 +51,7 @@
 ## 从源码运行
 
 ```bash
-git clone https://github.com/DaybreakCN/daybreak-danmaku-ji.git
+git clone https://github.com/Daybreak-Frontline/daybreak-danmaku-ji.git
 cd daybreak-danmaku-ji
 
 npm install
