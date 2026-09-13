@@ -27,6 +27,10 @@ electron.log
 Thumbs.db
 *.log
 
+# Portable launcher build output
+/portable/*.exe
+/portable/DanmakuJi.exe
+
 # Upstream Musiche leftovers (not part of this app)
 /mobile/
 /harmoryos/

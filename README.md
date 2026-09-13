@@ -141,7 +141,7 @@ Vite 开发服务器默认监听 `127.0.0.1:5173`，API 仍为 `54821`。请避�
 | 项目 | 说明 |
 | --- | --- |
 | 文件名 | `musiche-danmaku-ji-portable-<version>.zip` |
-| 内容 | 内含 Node 与 Electron，解压后运行 `start.bat` |
+| 内容 | 内含 Node、Electron 与启动器，解压后运行「弹幕点歌姬.exe」（或 `start.bat`） |
 | 数据 | 允许包含空的 `data/`，禁止包含已登录数据 |
 | 升级 | 先关闭新旧进程，再将旧版 `data` 覆盖至新包 |
 | 端口 | 默认 `54821`，请勿与本机另一实例同时占用 |
